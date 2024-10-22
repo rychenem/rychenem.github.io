@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rychenem.github.io/rychenem.rychenem
+Sitemap: https://rychenem.github.io/app/rychenem.rychenem
+Sitemap: https://rychenem.github.io/assets/rychenem.rychenem
+Sitemap: https://rychenem.github.io/css/rychenem.rychenem
+Sitemap: https://rychenem.github.io/includes/rychenem.rychenem
+Sitemap: https://rychenem.github.io/item/rychenem.rychenem
+Sitemap: https://rychenem.github.io/src/rychenem.rychenem
